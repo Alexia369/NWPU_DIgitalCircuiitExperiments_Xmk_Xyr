@@ -1,0 +1,37 @@
+|fenping
+CLK => TMP.CLK
+CLK => cout[0].CLK
+CLK => cout[1].CLK
+CLK => cout[2].CLK
+CLK => cout[3].CLK
+CLK => cout[4].CLK
+CLK => cout[5].CLK
+CLK => cout[6].CLK
+CLK => cout[7].CLK
+CLK => cout[8].CLK
+CLK => cout[9].CLK
+CLK => cout[10].CLK
+CLK => cout[11].CLK
+CLK => cout[12].CLK
+CLK => cout[13].CLK
+CLK => cout[14].CLK
+CLK => cout[15].CLK
+CLK => cout[16].CLK
+CLK => cout[17].CLK
+CLK => cout[18].CLK
+CLK => cout[19].CLK
+CLK => cout[20].CLK
+CLK => cout[21].CLK
+CLK => cout[22].CLK
+CLK => cout[23].CLK
+CLK => cout[24].CLK
+CLK => cout[25].CLK
+CLK => cout[26].CLK
+CLK => cout[27].CLK
+CLK => cout[28].CLK
+CLK => cout[29].CLK
+CLK => cout[30].CLK
+CLK => cout[31].CLK
+CLKOUT <= TMP.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="ROMuse">
+		<CBX_INST_ENTRY INSTANCE_NAME="|ROMuse|ID1ID2:inst3|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_l091.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ROMuse|rom5:inst10|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_5sr3.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ROMuse|rom5:inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_5sr3.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

@@ -1,0 +1,73 @@
+|sdsy
+C0 <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+Ci => fan3.IN0
+Ci => 74153:quanjianqi.1C0
+Ci => 74153:quanjianqi.2C0
+Ci => 74153:quanjianqi.1C3
+Ci => 74153:quanjianqi.2C3
+Ci => 74138:quanjiaqi.C
+N1 => notor2.IN0
+N1 => notor1.IN0
+N3 => fan1.IN0
+N3 => notor1.IN1
+N2 => notor2.IN2
+N2 => notor1.IN2
+N4 => notor2.IN3
+N4 => notor1.IN3
+BP => 74153:quanjianqi.B
+BP => 74138:quanjiaqi.B
+AP => 74153:quanjianqi.A
+AP => 74138:quanjiaqi.A
+SP <= inst1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sdsy|74153:quanjianqi
+1Y <= 9.DB_MAX_OUTPUT_PORT_TYPE
+1GN => 26.IN0
+B => 27.IN0
+A => 29.IN0
+1C0 => 1.IN3
+1C1 => 2.IN3
+1C2 => 3.IN3
+1C3 => 4.IN3
+2Y <= 10.DB_MAX_OUTPUT_PORT_TYPE
+2C0 => 5.IN0
+2GN => 25.IN0
+2C1 => 6.IN0
+2C2 => 7.IN0
+2C3 => 8.IN0
+
+
+|sdsy|7420:notand2
+1 <= 6.DB_MAX_OUTPUT_PORT_TYPE
+2 => 6.IN0
+3 => 6.IN1
+4 => 6.IN2
+5 => 6.IN3
+
+
+|sdsy|74138:quanjiaqi
+Y7N <= 22.DB_MAX_OUTPUT_PORT_TYPE
+G1 => 8.IN0
+G2BN => 1.IN1
+G2AN => 1.IN2
+B => 10.IN0
+A => 9.IN0
+C => 11.IN0
+Y6N <= 21.DB_MAX_OUTPUT_PORT_TYPE
+Y5N <= 20.DB_MAX_OUTPUT_PORT_TYPE
+Y4N <= 19.DB_MAX_OUTPUT_PORT_TYPE
+Y3N <= 18.DB_MAX_OUTPUT_PORT_TYPE
+Y2N <= 17.DB_MAX_OUTPUT_PORT_TYPE
+Y1N <= 16.DB_MAX_OUTPUT_PORT_TYPE
+Y0N <= 15.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sdsy|7420:notand1
+1 <= 6.DB_MAX_OUTPUT_PORT_TYPE
+2 => 6.IN0
+3 => 6.IN1
+4 => 6.IN2
+5 => 6.IN3
+
+

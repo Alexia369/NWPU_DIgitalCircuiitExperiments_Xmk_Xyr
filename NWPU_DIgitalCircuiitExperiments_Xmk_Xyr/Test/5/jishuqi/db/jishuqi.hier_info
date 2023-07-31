@@ -1,0 +1,30 @@
+|jishuqi
+clk => Sign~reg0.CLK
+clk => temp[0].CLK
+clk => temp[1].CLK
+clk => temp[2].CLK
+clk => temp[3].CLK
+clk => temp[4].CLK
+clk => temp[5].CLK
+clk => temp[6].CLK
+clk => temp[7].CLK
+reset => Sign~reg0.ACLR
+reset => temp[0].ACLR
+reset => temp[1].ACLR
+reset => temp[2].ACLR
+reset => temp[3].ACLR
+reset => temp[4].ACLR
+reset => temp[5].ACLR
+reset => temp[6].ACLR
+reset => temp[7].ACLR
+OutD[0] <= temp[0].DB_MAX_OUTPUT_PORT_TYPE
+OutD[1] <= temp[1].DB_MAX_OUTPUT_PORT_TYPE
+OutD[2] <= temp[2].DB_MAX_OUTPUT_PORT_TYPE
+OutD[3] <= temp[3].DB_MAX_OUTPUT_PORT_TYPE
+OutD[4] <= temp[4].DB_MAX_OUTPUT_PORT_TYPE
+OutD[5] <= temp[5].DB_MAX_OUTPUT_PORT_TYPE
+OutD[6] <= temp[6].DB_MAX_OUTPUT_PORT_TYPE
+OutD[7] <= temp[7].DB_MAX_OUTPUT_PORT_TYPE
+Sign <= Sign~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

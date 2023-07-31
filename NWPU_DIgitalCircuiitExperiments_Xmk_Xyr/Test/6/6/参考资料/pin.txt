@@ -1,0 +1,12 @@
+CLK	Input	PIN_M9
+Cp	Output	PIN_T15
+q[7]	Output	PIN_R22
+q[6]	Output	PIN_T22
+q[5]	Output	PIN_N19
+q[4]	Output	PIN_P19
+q[3]	Output	PIN_P17
+q[2]	Output	PIN_M18
+q[1]	Output	PIN_L17
+q[0]	Output	PIN_K17
+s2	Input	PIN_V13
+select	Input	PIN_U13

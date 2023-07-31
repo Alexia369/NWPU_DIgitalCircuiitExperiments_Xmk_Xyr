@@ -1,0 +1,133 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'CP'
+Slack : -2.825
+TNS   : -121.063
+
+Type  : Slow 1100mV 85C Model Setup 'Switch'
+Slack : -1.065
+TNS   : -7.224
+
+Type  : Slow 1100mV 85C Model Hold 'CP'
+Slack : 0.460
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'Switch'
+Slack : 0.816
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'CP'
+Slack : -1.537
+TNS   : -3.071
+
+Type  : Slow 1100mV 85C Model Removal 'CP'
+Slack : 1.050
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CP'
+Slack : -0.538
+TNS   : -38.336
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'Switch'
+Slack : -0.538
+TNS   : -6.360
+
+Type  : Slow 1100mV 0C Model Setup 'CP'
+Slack : -2.768
+TNS   : -118.644
+
+Type  : Slow 1100mV 0C Model Setup 'Switch'
+Slack : -1.071
+TNS   : -7.424
+
+Type  : Slow 1100mV 0C Model Hold 'CP'
+Slack : 0.487
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'Switch'
+Slack : 0.769
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'CP'
+Slack : -1.350
+TNS   : -2.696
+
+Type  : Slow 1100mV 0C Model Removal 'CP'
+Slack : 0.824
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CP'
+Slack : -0.538
+TNS   : -38.875
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'Switch'
+Slack : -0.538
+TNS   : -5.937
+
+Type  : Fast 1100mV 85C Model Setup 'CP'
+Slack : -0.892
+TNS   : -34.265
+
+Type  : Fast 1100mV 85C Model Setup 'Switch'
+Slack : -0.071
+TNS   : -0.363
+
+Type  : Fast 1100mV 85C Model Hold 'CP'
+Slack : 0.172
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'Switch'
+Slack : 0.355
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'CP'
+Slack : 0.214
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'CP'
+Slack : 0.007
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'Switch'
+Slack : -0.306
+TNS   : -2.134
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CP'
+Slack : -0.096
+TNS   : -4.608
+
+Type  : Fast 1100mV 0C Model Setup 'CP'
+Slack : -0.748
+TNS   : -27.778
+
+Type  : Fast 1100mV 0C Model Setup 'Switch'
+Slack : -0.012
+TNS   : -0.027
+
+Type  : Fast 1100mV 0C Model Hold 'CP'
+Slack : 0.020
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'Switch'
+Slack : 0.327
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'CP'
+Slack : 0.357
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'CP'
+Slack : -0.108
+TNS   : -0.216
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'Switch'
+Slack : -0.311
+TNS   : -2.169
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CP'
+Slack : -0.097
+TNS   : -4.679
+
+------------------------------------------------------------

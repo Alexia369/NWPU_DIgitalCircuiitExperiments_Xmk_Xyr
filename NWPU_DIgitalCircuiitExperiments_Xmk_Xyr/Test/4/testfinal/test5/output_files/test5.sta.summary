@@ -1,0 +1,101 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CP'
+Slack : -3.148
+TNS   : -135.247
+
+Type  : Slow 1200mV 85C Model Setup 'Switch'
+Slack : -0.252
+TNS   : -0.623
+
+Type  : Slow 1200mV 85C Model Hold 'Switch'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CP'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'CP'
+Slack : -2.796
+TNS   : -5.470
+
+Type  : Slow 1200mV 85C Model Removal 'CP'
+Slack : 2.920
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CP'
+Slack : -3.000
+TNS   : -52.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Switch'
+Slack : -3.000
+TNS   : -7.000
+
+Type  : Slow 1200mV 0C Model Setup 'CP'
+Slack : -2.781
+TNS   : -119.065
+
+Type  : Slow 1200mV 0C Model Setup 'Switch'
+Slack : -0.114
+TNS   : -0.183
+
+Type  : Slow 1200mV 0C Model Hold 'Switch'
+Slack : 0.313
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CP'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'CP'
+Slack : -2.444
+TNS   : -4.774
+
+Type  : Slow 1200mV 0C Model Removal 'CP'
+Slack : 2.650
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CP'
+Slack : -3.000
+TNS   : -52.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Switch'
+Slack : -3.000
+TNS   : -7.000
+
+Type  : Fast 1200mV 0C Model Setup 'CP'
+Slack : -1.311
+TNS   : -53.427
+
+Type  : Fast 1200mV 0C Model Setup 'Switch'
+Slack : 0.291
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Switch'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CP'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'CP'
+Slack : -1.094
+TNS   : -2.108
+
+Type  : Fast 1200mV 0C Model Removal 'CP'
+Slack : 1.534
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CP'
+Slack : -3.000
+TNS   : -55.219
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Switch'
+Slack : -3.000
+TNS   : -7.792
+
+------------------------------------------------------------

@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Quartus\experience_5\ROMuse\simulation\qsim
+vROMuse
+Z1 !s100 K]1lY:mZ2FR8LZoZmmF^S2
+Z2 I]MiaI`Co6m6zRWj@UdTW>2
+Z3 VODDac=T3?[2eNZ>6=]8]P3
+Z4 dD:\Quartus_document\5\51\ROMuse\simulation\qsim
+Z5 w1687653908
+Z6 8ROMuse.vo
+Z7 FROMuse.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|ROMuse.vo|
+Z10 o-work work -O0
+Z11 n@r@o@muse
+!i10b 1
+!s85 0
+Z12 !s108 1687653909.289000
+Z13 !s107 ROMuse.vo|
+!s101 -O0
+vROMuse_vlg_check_tst
+!i10b 1
+Z14 !s100 NHAI3UUOCY]GU8zmbE:k21
+Z15 IX9MEA4[P_=W^m=KHe^aO01
+Z16 VAAHP8<G1jz[fO6>hg93QR0
+R4
+Z17 w1687653907
+Z18 8ROMuse.vwf.vt
+Z19 FROMuse.vwf.vt
+L0 57
+R8
+r1
+!s85 0
+31
+Z20 !s108 1687653909.339000
+Z21 !s107 ROMuse.vwf.vt|
+Z22 !s90 -work|work|ROMuse.vwf.vt|
+!s101 -O0
+R10
+Z23 n@r@o@muse_vlg_check_tst
+vROMuse_vlg_sample_tst
+!i10b 1
+Z24 !s100 GoijAV0;3>M<Fz2k7j:oG3
+Z25 I:Ij`40`]j3BPdef3^WACk3
+Z26 V;ACbja47DM?Qc]fAEf<UQ2
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@r@o@muse_vlg_sample_tst
+vROMuse_vlg_vec_tst
+!i10b 1
+Z28 !s100 ZHGFAC4e99jMCmO7cH;`n3
+Z29 IY=VAUPCkLW`X9TFR0IX7n2
+Z30 V4M`VPO[V0zS9Z2ndjATTP2
+R4
+R17
+R18
+R19
+Z31 L0 297
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z32 n@r@o@muse_vlg_vec_tst

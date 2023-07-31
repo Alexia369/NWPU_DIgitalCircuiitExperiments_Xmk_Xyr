@@ -1,0 +1,25 @@
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+USE IEEE.STD_LOGIC_UNSIGNED.ALL;
+
+ENTITY select211 IS
+	PORT (
+		sel : IN STD_LOGIC_VECTOR(1 DOWNTO 0);
+		d0, d1,d2,d3: IN STD_LOGIC_VECTOR(7 DOWNTO 0);
+		q : OUT STD_LOGIC_VECTOR(7 DOWNTO 0)
+	);
+END select211;
+
+ARCHITECTURE behave OF select211 IS
+BEGIN
+	PROCESS(sel)
+	BEGIN
+		CASE sel IS
+			WHEN "00" => q <= d0;
+			WHEN "01" => q <= d1;
+			WHEN "10" => q <= d2;
+			WHEN "11" => q <= d3;
+			--WHEN OTHERS => q <= d0; -- 默认选择d0
+		END CASE;
+	END PROCESS;
+END behave;

@@ -1,0 +1,28 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity test3 is
+  port(
+    clk   : in  std_logic_vector;
+    reset : in  std_logic_vector;
+    count : out std_logic_vector(3 downto 0)
+  );
+end test3;
+
+architecture Behavior of test3 is
+  signal temp_count : std_logic_vector(3 downto 0);
+begin
+  process(clk, reset)
+  begin
+    if reset='1' then
+      temp_count <= (others => '0');
+    elsif rising_edge(clk) then
+      if temp_count = "1110" then
+        temp_count <= "0000";
+      else
+        temp_count <= temp_count + 1;
+      end if;
+    end if;
+  end process;
+  count <= temp_count;
+end Behavior;

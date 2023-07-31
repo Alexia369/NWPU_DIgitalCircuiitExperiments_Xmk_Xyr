@@ -1,0 +1,12 @@
+# do 32.do 
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module \32 
+# 
+# Top level modules:
+# 	\32 
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# ** Error: Waveform.vwf.vt(29): near "32": syntax error, unexpected INTEGER NUMBER, expecting IDENTIFIER or automatic or TYPE_IDENTIFIER or static
+# ** Error: d:/quartus/quartus13/modelsim_ase/win32aloem/vlog failed.
+# Executing ONERROR command at macro ./32.do line 4
